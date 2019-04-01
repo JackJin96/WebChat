@@ -2,7 +2,7 @@
 
 Video chatting app using WebRTC
 
-2018 Fall
+2018 Fall<br>
 Hanchong Jin, Juan Zapata
 
 ## Run the project
