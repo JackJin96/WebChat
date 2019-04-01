@@ -2,8 +2,8 @@
 
 Video chatting app using WebRTC
 
-EC441, 2018 Fall
-Juan Zapata, Hanchong Jin
+2018 Fall
+Hanchong Jin, Juan Zapata
 
 ## Run the project
 
